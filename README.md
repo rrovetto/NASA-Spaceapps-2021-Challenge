@@ -8,3 +8,6 @@ This repository contains my contributions to a team (called [Ontelligence](https
 
 My contribution consisted of conceptual modeling, concept diagram/map creation, ontology development, and general team tasks. 
 Team discussions were had, and I worked with another ontology developer.
+
+Given the volunteer nature of the activity, and while under need of opportunity, this repository is created in the hope of finding a work or study opportunity and thus may serve as a pointer from a resume.
+
